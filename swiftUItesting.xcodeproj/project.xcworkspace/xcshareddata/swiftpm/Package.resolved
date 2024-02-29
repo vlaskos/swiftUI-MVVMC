@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "combineext",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/CombineCommunity/CombineExt.git",
+      "state" : {
+        "revision" : "38a4d4cb01f8c7750671c786d33dfbea00cbd131",
+        "version" : "1.6.1"
+      }
+    },
+    {
+      "identity" : "swinject",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Swinject/Swinject.git",
+      "state" : {
+        "revision" : "b1d92a53159fe45e162c307183aec9be15e4e7ae",
+        "version" : "2.8.0"
+      }
+    }
+  ],
+  "version" : 2
+}
