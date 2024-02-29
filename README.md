@@ -1,7 +1,6 @@
-![Screenshot](Simulator Screenshot - iPhone 15 - 2024-02-23 at 18.23.43.png)
-![Screenshot](Simulator Screenshot - iPhone 15 - 2024-02-23 at 18.23.48.png)
-![Screenshot](Simulator Screenshot - iPhone 15 - 2024-02-23 at 18.23.52.png)
-![Screenshot](Simulator Screenshot - iPhone 15 - 2024-02-23 at 18.23.55.png)
+![](https://github.com/vlaskos/swiftUI-MVVMC/assets/11546672/d393a669-c100-4269-823c-ef67d428f952)
+![](https://github.com/vlaskos/swiftUI-MVVMC/assets/11546672/de2c6721-c13a-4db5-8f64-cd3ed9d16779)
+![](https://github.com/vlaskos/swiftUI-MVVMC/assets/11546672/f192d09d-1ed8-4dcb-918f-291846f5c069)
+![](https://github.com/vlaskos/swiftUI-MVVMC/assets/11546672/9444dcf5-d3ff-4e1e-aa14-eac187efb3b1)
 
 
-![](https://github.com/vlaskos/swiftUI-MVVMC/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20-%202024-02-23%20at%2018.23.43.png | width=100)
