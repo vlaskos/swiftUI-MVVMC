@@ -5,4 +5,4 @@
 
 ![First screen]()https://github.com/vlaskos/swiftUI-MVVMC/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20-%202024-02-23%20at%2018.23.43.png?raw=true)
 
-![](https://github.com/vlaskos/swiftUI-MVVMC/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20-%202024-02-23%20at%2018.23.43.png)
+![](https://github.com/vlaskos/swiftUI-MVVMC/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20-%202024-02-23%20at%2018.23.43.png |  width=100)
